@@ -1,0 +1,12 @@
+tensorflow==2.7.0
+keras~=2.7.0
+scipy
+scikit-learn
+opencv-python~=4.5.5.62
+h5py~=3.6.0
+matplotlib~=3.5.1
+pypiwin32
+telebot~=0.0.4
+requests~=2.27.1
+numpy~=1.22.1
+Pillow~=9.0.0
